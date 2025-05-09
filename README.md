@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Aineah Simiyu</h1>
+<h3 align="center">A fullStack Developer and Infra Engineer</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aineah-simiyu" alt="aineah-simiyu" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://aineah-musuya-portfolio-0izh5a.vercel.app/](https://aineah-musuya-portfolio-0izh5a.vercel.app/)
+
+- 💬 Ask me about **react, nextJS, python, NodejS, Mongodb, ML**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aineah-musuya-a47289145) 
