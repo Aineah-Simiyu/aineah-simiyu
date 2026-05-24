@@ -1,23 +1,106 @@
-<h1 align="center">Hi 👋, I'm Aineah Simiyu</h1>
-<h3 align="center">A fullStack Developer and Infra Engineer</h3>
+# Aineah Musuya
 
-- 👨‍💻 All of my projects are available at [https://aineah-musuya-portfolio-0izh5a.vercel.app/](https://aineah-musuya-portfolio-0izh5a.vercel.app/)
-
-- 💬 Ask me about **react, nextJS, python, NodejS, Mongodb, ML**
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aineah-musuya-a47289145) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aineah-simiyu&theme=maroongold&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Senior Full-Stack Software Engineer · Data Engineer**  
+Nairobi, Kenya · [LinkedIn](https://linkedin.com/in/aineah-musuya-a47289145) · [Portfolio](https://aineah-musuya-portfolio-0izh5a.vercel.app/) · aineamusuya@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aineah-simiyu&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I build production SaaS systems and data pipelines — not prototypes.
+
+6+ years across fintech, edtech, and data-intensive platforms. I work primarily in **Node.js**, **Python**, and **Next.js**, and I'm hands-on with the full lifecycle: architecture, APIs, ETL pipelines, workflow orchestration, deployments, and infrastructure. I founded **[Quaxt Labs](https://quaxt.co.ke)** in Nairobi where I'm currently building a portfolio of five live SaaS products.
+
+My engineering philosophy: layered, testable architecture with zero shortcuts — every system I ship is designed to be maintained by someone else at 2am.
+
+---
+
+## What I'm Building
+
+| Product | What It Does | Stack |
+|---|---|---|
+| **[Swifta](https://swifta.co.ke)** | M-Pesa payment infrastructure — STK Push, embeddable checkout SDK, signed webhooks | Node.js, MongoDB, BullMQ, Redis |
+| **[Qboot](https://qboot.co.ke)** | Multi-tenant bootcamp management — cohorts, enrollment, real-time chat, M-Pesa billing | Next.js, Node.js, MongoDB, Socket.io |
+| **[Qbeam](launching soon)** | Multi-channel messaging SaaS — WhatsApp, SMS, Email, Telegram, FCM Push | Node.js, BullMQ, Baileys, Africa's Talking |
+| **[Q-learn](launching soone)** | Enterprise LMS — HLS adaptive video, dynamic RBAC, multi-tenant, plan gating | Node.js, MinIO, FFmpeg, MongoDB |
+| **Rova** | KES-to-crypto on/off ramp aggregator — pure broker, Swifta inbound, Yellow Card rails | Node.js, MongoDB, BullMQ |
+
+---
+
+## Engineering Focus Areas
+
+**Full-Stack Software Engineering**
+- RESTful API design with modular layered architecture (Model → Repo → Service → Controller → Route)
+- Multi-tenant SaaS systems with dynamic RBAC, session auth, plan gating, and audit trails
+- Real-time systems: Socket.io, Redis pub/sub, BullMQ job queues with dead-letter and failover
+- Server-rendered and SPA frontends: Next.js App Router, React, Tailwind CSS, TanStack Query
+- Payment systems: M-Pesa Daraja API (STK Push, C2B, B2C, Paybill), HMAC-signed webhooks
+
+**Data Engineering**
+- ETL/ELT pipeline design: ingestion, transformation, validation, reconciliation
+- Apache Airflow DAG authoring and task orchestration in production
+- Data quality frameworks: anomaly detection, upstream validation, exception reduction
+- Python data stack: pandas, scikit-learn, NumPy, Matplotlib, PostgreSQL, Redis
+- ML pipeline deployment: Flask model serving, Dockerized inference, PostgreSQL persistence
+- Automated reporting: scheduled jobs, stakeholder dashboards, operational KPI tracking
+
+**Infrastructure & DevOps**
+- Docker, Docker Swarm, Dokploy, Traefik, Cloudflare DNS
+- Tailscale VPN-connected hybrid clusters (VPS manager + bare-metal worker)
+- Self-hosted MinIO object storage with presigned URL access control
+- Linux server administration, GitHub Actions CI/CD, environment hardening
+
+---
+
+## Selected Work
+
+**Dockerized Healthcare ML Pipeline**  
+Flask inference service + Apache Airflow DAG orchestration + PostgreSQL — containerized on a Dokploy/Docker Swarm cluster. Solved Docker volume collision, network isolation, and entrypoint permission issues in production. Airflow manages the full data ingestion and inference schedule.
+
+**Swifta Bank Paybill STK Push**  
+Reverse-engineered the Daraja API to execute STK Push flows where the `BusinessShortCode` is Swifta's own credentials and `PartyB` is the target bank paybill — achieving direct competitor feature parity. First implementation of this pattern in a Kenyan multi-tenant payment gateway.
+
+**Q-learn HLS Video Pipeline**  
+Raw video uploads → FFmpeg BullMQ worker → adaptive bitrate HLS segments → MinIO storage → Video.js playback. Per-tenant presigned URL access control. Entire transcode pipeline runs asynchronously with job retry and dead-letter handling.
+
+**Swifta Postpaid Billing Engine**  
+Designed a billing model that avoids CBK PSP licensing: no wallet, postpaid per-transaction (Free 50tx/mo → Growth KES 2/tx → Scale KES 1/tx after 500), auto-invoiced via STK Push on the 1st of each month with a D+7 → D+14 → D+21 grace cycle. Fully automated with BullMQ workers and MongoDB usage records.
+
+---
+
+## Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python, SQL, Bash  
+**Backend:** Node.js, Express, NestJS, Flask, FastAPI  
+**Frontend:** Next.js, React, Tailwind CSS, shadcn/ui, Handlebars  
+**Data & Pipelines:** Apache Airflow, pandas, scikit-learn, NumPy, PostgreSQL, DBT (working knowledge)  
+**Databases:** MongoDB, PostgreSQL, Redis, MySQL, SQLite, Microsoft SQL Server  
+**Messaging & Queues:** BullMQ, Socket.io, Kafka (working knowledge), Redis Streams  
+**Infrastructure:** Docker, Docker Swarm, Dokploy, Traefik, AWS (S3, EC2), Azure, Cloudflare, MinIO, Nginx  
+**ML & Visualization:** TensorFlow, PyTorch, Keras, scikit-learn, Matplotlib, Plotly  
+**DevOps:** GitHub Actions, GitLab CI, Git, Linux  
+
+---
+
+## Background
+
+| Role | Company | Period |
+|---|---|---|
+| Senior Software Engineer & Founder | Quaxt Labs | 2025 – Present |
+| Software Developer | Madfun | 2023 – 2025 |
+| Software Developer | Riverbank Solutions | 2022 – 2023 |
+| Data Analyst | M-Kopa Solar | 2021 – 2022 |
+| Junior Software Developer | Ezen Financials | 2019 – 2020 |
+
+---
+
+## Currently
+
+- Scaling **Qboot** and **Swifta** to paying customers across East Africa
+- Building out **Rova** — KES-to-crypto with Yellow Card and Kotani Pay rails
+- Completing a **Data Engineering** certification at LuxDev
+- Open to senior software engineering and data engineering roles (remote or Nairobi-based)
+
+---
+
+*Available for contract work, senior roles, and technical co-founder conversations.*
